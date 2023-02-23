@@ -1,0 +1,14 @@
+2023-02-23 06:07:15,556 root create a new database
+2023-02-23 06:07:15,556 root create a new collection in the database
+2023-02-23 06:07:15,556 root insert a new document into the collection
+2023-02-23 06:11:44,874 root print the inserted records
+2023-02-23 06:14:41,123 root print the matching documents using name
+2023-02-23 06:14:42,862 root print the matching documents using gte operator
+2023-02-23 06:14:44,609 root print the matching documents using name
+2023-02-23 06:14:46,350 root print the matching documents using gte operator
+2023-02-23 06:15:04,426 root print the matching documents using name
+2023-02-23 06:15:06,174 root print the matching documents using gte operator
+2023-02-23 06:20:52,272 root  print the sorted documents
+2023-02-23 06:20:59,527 root  print the sorted documents
+2023-02-23 06:21:04,843 root  print the sorted documents
+2023-02-23 06:22:48,453 root droping the collection having the name students
