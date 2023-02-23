@@ -1,4 +1,6 @@
-$${\color{red} Data Science Assignment from Scratch }$$
+$${\color{red} Data  Science Assignment from Scratch  }$$
+
+$${\color{cyan} Start From Basic Python to Advance concepts  }$$
 1. This Repo Conatins All the Essential Question fot the purporse of the Interviews 
 2. Topics are Covered as follow:
 2. Python Basic to Advance 
