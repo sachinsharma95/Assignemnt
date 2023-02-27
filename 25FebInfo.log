@@ -1,0 +1,142 @@
+2023-02-26 19:42:02,434 root Pandas Working Started 
+2023-02-26 19:42:27,898 root Given Data
+2023-02-26 19:43:18,386 root Code to print the data present in second row of the DataFrame df
+2023-02-26 19:43:46,765 root Code to print the data present in second row of the DataFrame df
+2023-02-26 19:43:59,120 root Code to print the data present in second row of the DataFrame df
+2023-02-26 19:44:02,042 root Code to print the data present in second row of the DataFrame df
+2023-02-26 19:44:38,707 root Code to print the data present in second row of the DataFrame df
+2023-02-26 19:44:56,924 root Code to print the data present in second row of the DataFrame df
+2023-02-26 19:46:05,223 root Code to print the data present in second row of the DataFrame df
+2023-02-26 19:46:38,367 root Code to print the data present in second row of the DataFrame df
+2023-02-26 19:46:46,334 root Code to print the data present in second row of the DataFrame df
+2023-02-26 19:46:52,181 root Code to print the data present in second row of the DataFrame df
+2023-02-26 19:47:05,089 root Code to print the data present in second row of the DataFrame df
+2023-02-26 19:47:11,859 root Code to print the data present in second row of the DataFrame df
+2023-02-26 19:47:17,903 root Code to print the data present in second row of the DataFrame df
+2023-02-26 19:47:21,708 root Code to print the data present in second row of the DataFrame df
+2023-02-26 19:47:27,981 root Code to print the data present in second row of the DataFrame df
+2023-02-26 19:47:44,631 root Code to print the data present in second row of the DataFrame df
+2023-02-26 19:47:58,596 root Code to print the data present in second row of the DataFrame df
+2023-02-26 19:49:06,415 root Code to print the data present in second row of the DataFrame df
+2023-02-26 19:49:06,416 root or By using the iloc function we can also extrac the 2nd row
+2023-02-26 19:49:08,576 root Code to print the data present in second row of the DataFrame df
+2023-02-26 19:49:08,577 root or By using the iloc function we can also extrac the 2nd row
+2023-02-26 19:49:15,692 root Code to print the data present in second row of the DataFrame df
+2023-02-26 19:49:15,693 root or By using the iloc function we can also extrac the 2nd row
+2023-02-26 19:49:20,809 root Code to print the data present in second row of the DataFrame df
+2023-02-26 19:53:53,358 root we are using the row loc function to extract the data
+2023-02-26 19:54:04,098 root we are using the row loc function to extract the data
+2023-02-26 19:54:09,544 root we are using the row loc function to extract the data
+2023-02-26 19:54:32,239 root we are using the row loc function to extract the data
+2023-02-26 19:57:39,006 root we are using the iloc funcition to extract the same data as in loc
+2023-02-26 19:57:48,181 root we are using the iloc funcition to extract the same data as in loc
+2023-02-26 19:57:56,649 root we are using the iloc funcition to extract the same data as in loc
+2023-02-26 19:58:37,387 root we are using the iloc funcition to extract the same data as in loc
+2023-02-26 19:58:37,388 root  iloc taking the integer as the input 
+2023-02-26 19:58:43,325 root we are using the iloc funcition to extract the same data as in loc
+2023-02-26 19:58:43,326 root  iloc taking the integer as the input 
+2023-02-26 19:59:07,086 root we are using the iloc funcition to extract the same data as in loc
+2023-02-26 19:59:07,087 root  iloc taking the integer as the input 
+2023-02-26 20:06:15,273 Comm No such comm target registered: jupyter.widget.control
+2023-02-26 20:06:15,275 Comm No such comm: 412b3066-6823-4915-baa5-d1b9e5479283
+2023-02-26 20:30:04,802 root  we are using the above data for answer3 to reindex and to perform the operation
+2023-02-26 20:30:57,315 root  we are using the above data for answer3 to reindex and to perform the operation
+2023-02-26 20:30:57,316 root output after reindexing the dataframe
+2023-02-26 20:39:06,682 root DataFrame Given for performing the pandas operation
+2023-02-26 20:43:42,193 root df1.mean() will create a mean of the each and every column
+2023-02-26 20:43:52,430 root df1.mean() will create a mean of the each and every column
+2023-02-26 20:44:06,930 root df1.mean() will create a mean of the each and every column
+2023-02-26 20:44:27,770 root df1.mean() will create a mean of the each and every column
+2023-02-26 20:44:32,642 root df1.mean() will create a mean of the each and every column
+2023-02-26 20:44:39,277 root df1.mean() will create a mean of the each and every column
+2023-02-26 20:45:06,086 root df1.mean() will create a mean of the each and every column
+2023-02-26 20:45:12,600 root df1.mean() will create a mean of the each and every column
+2023-02-26 20:45:20,029 root df1.mean() will create a mean of the each and every column
+2023-02-26 20:45:28,194 root df1.mean() will create a mean of the each and every column
+2023-02-26 20:45:32,693 root df1.mean() will create a mean of the each and every column
+2023-02-26 20:45:44,443 root df1.mean() will create a mean of the each and every column
+2023-02-26 20:48:18,017 root df1.mean() will create a mean of the each and every column
+2023-02-26 20:48:18,019 root we will use the df1.std to calculate the standard deviation
+2023-02-26 20:48:33,085 root df1.mean() will create a mean of the each and every column
+2023-02-26 20:48:33,088 root we will use the df1.std to calculate the standard deviation
+2023-02-26 20:49:44,556 root df1.mean() will create a mean of the each and every column
+2023-02-26 20:49:44,558 root we will use the df1.std to calculate the standard deviation
+2023-02-26 20:49:50,340 root df1.mean() will create a mean of the each and every column
+2023-02-26 20:49:50,342 root we will use the df1.std to calculate the standard deviation
+2023-02-26 20:50:18,511 root df1.mean() will create a mean of the each and every column
+2023-02-26 20:50:18,513 root we will use the df1.std to calculate the standard deviation
+2023-02-26 20:50:28,207 root df1.mean() will create a mean of the each and every column
+2023-02-26 20:50:28,210 root we will use the df1.std to calculate the standard deviation
+2023-02-26 20:50:45,538 root df1.mean() will create a mean of the each and every column
+2023-02-26 20:50:45,541 root we will use the df1.std to calculate the standard deviation
+2023-02-26 20:50:47,841 root df1.mean() will create a mean of the each and every column
+2023-02-26 20:50:47,844 root we will use the df1.std to calculate the standard deviation
+2023-02-26 20:51:18,885 root df1.mean() will create a mean of the each and every column
+2023-02-26 20:51:18,888 root we will use the df1.std to calculate the standard deviation
+2023-02-26 20:57:57,634 root df1.mean() will create a mean of the each and every column
+2023-02-26 20:58:01,688 root we will use the df1.std to calculate the standard deviation
+2023-02-26 20:58:06,499 root we will use the df1.std to calculate the standard deviation
+2023-02-26 20:58:32,183 root df1.mean() will create a mean of the each and every column
+2023-02-26 20:58:52,540 root df1.mean() will create a mean of the each and every column
+2023-02-26 20:59:13,354 root we will use the df1.std to calculate the standard deviation
+2023-02-26 20:59:20,153 root we will use the df1.std to calculate the standard deviation
+2023-02-26 21:01:43,210 root we will use the df1.std to calculate the standard deviation
+2023-02-27 06:10:38,521 root Pandas Working Started 
+2023-02-27 06:10:40,096 root Given Data
+2023-02-27 06:10:42,360 root Code to print the data present in second row of the DataFrame df
+2023-02-27 06:10:44,150 root we are using the row loc function to extract the data
+2023-02-27 06:10:46,032 root we are using the iloc funcition to extract the same data as in loc
+2023-02-27 06:10:46,032 root  iloc taking the integer as the input 
+2023-02-27 06:10:51,501 root we are using the iloc funcition to extract the same data as in loc
+2023-02-27 06:10:51,502 root  iloc taking the integer as the input 
+2023-02-27 06:10:54,677 root  we are using the above data for answer3 to reindex and to perform the operation
+2023-02-27 06:10:54,679 root new_DataFrame after reindexing the dataframe
+2023-02-27 06:10:59,354 root DataFrame Given for performing the pandas operation
+2023-02-27 06:11:02,387 root df1.mean() will create a mean of the each and every column
+2023-02-27 06:11:04,528 root we will use the df1.std to calculate the standard deviation
+2023-02-27 06:11:07,907 root we are using the pandas.datetime.now as to print current month and year 
+2023-02-27 06:33:01,293 Comm No such comm target registered: jupyter.widget.control
+2023-02-27 06:33:01,295 Comm No such comm: c8ac3212-deea-41d7-9594-974fa78c7316
+2023-02-27 06:50:39,527 root creating the function to calcuate the diffrence 
+2023-02-27 06:56:28,338 root creating the function to calcuate the diffrence 
+2023-02-27 06:56:44,596 root creating the function to calcuate the diffrence 
+2023-02-27 06:56:55,928 root creating the function to calcuate the diffrence 
+2023-02-27 07:25:22,685 root taking the input through user
+2023-02-27 07:25:50,145 root taking the input through user
+2023-02-27 07:37:20,836 Comm No such comm target registered: jupyter.widget.control
+2023-02-27 07:37:20,839 Comm No such comm: 5fd24255-bd33-489e-88b8-cd328f36cc7d
+2023-02-27 07:37:32,766 root taking the input through user
+2023-02-27 08:19:06,876 root Pandas Working Started 
+2023-02-27 08:19:09,123 root Given Data
+2023-02-27 08:19:12,196 root Code to print the data present in second row of the DataFrame df
+2023-02-27 08:19:14,562 root we are using the row loc function to extract the data
+2023-02-27 08:19:17,809 root we are using the iloc funcition to extract the same data as in loc
+2023-02-27 08:19:17,810 root  iloc taking the integer as the input 
+2023-02-27 08:19:20,042 root  we are using the above data for answer3 to reindex and to perform the operation
+2023-02-27 08:19:20,044 root new_DataFrame after reindexing the dataframe
+2023-02-27 08:19:25,476 root df1.mean() will create a mean of the each and every column
+2023-02-27 08:19:27,837 root DataFrame Given for performing the pandas operation
+2023-02-27 08:19:30,672 root df1.mean() will create a mean of the each and every column
+2023-02-27 08:19:32,839 root we will use the df1.std to calculate the standard deviation
+2023-02-27 08:19:38,789 root we are using the pandas.datetime.now as to print current month and year 
+2023-02-27 08:19:41,429 root creating the function to calcuate the diffrence 
+2023-02-27 08:19:55,077 root taking the input through user
+2023-02-27 08:20:25,191 root Prompt user to enter file path
+2023-02-27 08:20:44,336 root Read CSV file into a Pandas DataFrame
+2023-02-27 08:20:55,289 root Prompt user to enter file path
+2023-02-27 08:21:01,645 root Read CSV file into a Pandas DataFrame
+2023-02-27 08:21:01,648 root Calculate mean, median, and mode of test scores
+2023-02-27 08:21:01,649 root Create a DataFrame to display the results
+2023-02-27 08:21:14,275 root Prompt user to enter file path
+2023-02-27 08:21:15,357 root Read CSV file into a Pandas DataFrame
+2023-02-27 08:21:32,507 root Prompt user to enter file path
+2023-02-27 08:21:33,888 root Read CSV file into a Pandas DataFrame
+2023-02-27 08:21:33,891 root Calculate mean, median, and mode of test scores
+2023-02-27 08:21:33,892 root Create a DataFrame to display the results
+2023-02-27 08:22:01,226 root Prompt user to enter file path
+2023-02-27 08:22:02,756 root Read CSV file into a Pandas DataFrame
+2023-02-27 08:22:02,758 root Calculate mean, median, and mode of test scores
+2023-02-27 08:22:17,866 root Prompt user to enter file path
+2023-02-27 08:22:19,446 root Read CSV file into a Pandas DataFrame
+2023-02-27 08:22:19,448 root Calculate mean, median, and mode of test scores
+2023-02-27 08:22:19,449 root Create a DataFrame to display the results
