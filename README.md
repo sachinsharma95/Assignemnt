@@ -1,7 +1,9 @@
-# $${\color{red} Data  Science Assignment from Scratch to Advance   }$$
+# $${\color{skyblue} DataScience  Assignment  from  Scratch to  Advance   }$$
 
 ## $${\color{cyan} Start From Basic Python to Advance concepts  }$$
-# Interview Questions Repository
+
+# This Repo also contains the Interview Questions
+
 
 This repository contains a list of essential interview questions for various topics related to data science and software engineering. The following topics are covered:
 
